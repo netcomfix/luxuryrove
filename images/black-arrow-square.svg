@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu-Step-2-(mobile)" transform="translate(-111.000000, -254.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Menu-Items-Copy" transform="translate(24.000000, 247.000000)">
+                <g id="Arrow" transform="translate(92.000000, 12.000000) rotate(-90.000000) translate(-92.000000, -12.000000) translate(87.000000, 7.000000)">
+                    <polygon id="Path" points="1.39174386e-14 4.28571429 8.57142857 4.28571429 8.57142857 5.71428571 1.39174386e-14 5.71428571"></polygon>
+                    <polygon id="Path" points="5.2738061 10 4.28571429 8.95481035 8.02515394 5 4.28571429 1.04518965 5.2738061 0 10 5.00001791"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
